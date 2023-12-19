@@ -1,3 +1,2 @@
 # hello-github
-This is a github newcomer.
-I have no infermation to add.
+This is my first github repository. From now on I use it to store my matlab and mathematica codes.
