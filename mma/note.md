@@ -1,1 +1,1 @@
-This folder is for storing mma files.
+This folder is to store mma files.
