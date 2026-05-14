@@ -64,7 +64,7 @@ for phase_i=1:20
                 times=[timeend times];
             end
             
-            cnt_int=floor((times(end)-t0)/(count_bin)); %每块数据的整数bin
+            cnt_int=floor((times(end)-t0)/(count_bin)); %脙驴驴茅脢媒戮脻碌脛脮没脢媒bin
             
             for i=1:length(ch)-1
                 dt1=times(i)-t0;
@@ -97,7 +97,7 @@ for phase_i=1:20
                 end
             end
             
-            %  计算count rate
+            %  录脝脣茫count rate
             %     for i=1:length(ch)
             %         ti=floor((times(i)-t0)/count_bin)+1;
             %
